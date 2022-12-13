@@ -1,0 +1,5 @@
+
+body { /*Al igual que en el index, tenemos que cargar aca también el font-family*/
+    margin: 0%;
+    font-family: 'Quicksand', sans-serif; /*Tbn tenemos que poner arriba los liks que copiamos de google fonts*/
+    }

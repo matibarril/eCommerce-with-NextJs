@@ -4,7 +4,10 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  env: {
+  images: {
+    domains: ['placeimg.com'],
+  },
+/*  env: {
     customKey: 'customValue',
   },
   basePath: '/dist',
@@ -18,7 +21,7 @@ const nextConfig = {
         permanent: true,
       }
     ]
-  }
+  } */
 }
 
 module.exports = nextConfig

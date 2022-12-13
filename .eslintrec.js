@@ -15,6 +15,7 @@ module.exports = {
   ],
   rules: {
     'semi': ['error', 'always'], //para que se usen los punto y comas obligatoriamente
+    'prettier/prettier': 0  // 0 para que sea más permisivo, 1 para que lso tome como warning y 2 para que sea extricto.
   }
 }
 
